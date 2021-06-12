@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ...PHP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...avi.arya987@gmail.com
+- 📫 How to reach me ...avi.ajax786@gmail.com
 
 <!---
 AviArya987/AviArya987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
