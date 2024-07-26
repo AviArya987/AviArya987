@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AviArya987
+- 👋 Hi, I’m @AviArya786
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...Web Dev Projects
